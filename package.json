@@ -1,0 +1,19 @@
+{
+  "name": "temperatureconverterrest",
+  "version": "1.0.0",
+  "description": "Temperature Converter Rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node app.js"
+  },
+  "author": "Sergio Burciaga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
